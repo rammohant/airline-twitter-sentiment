@@ -1,9 +1,11 @@
 # Airline Sentiment
-## First Place Overall Award and First Place Bank of America Challenge Award in 2021 RamHacks hackathon
+### First Place Overall Award and First Place Bank of America Challenge Award in 2021 RamHacks hackathon
 
 Created by: Tara Ram Mohan, Meredith Seaberg, Chris Sampson, and Greg Johnson
+
 Purpose: Machine learning project that dynamically analyzed Twitter data to determine customer satisfaction and sentiment of leading airline companies. 
 
+### Resources
 DevPost Hackathon Submission: https://devpost.com/software/airline-customer-satisfaction
 
 Walkthrough: https://www.youtube.com/watch?v=29RUQKzdpp0
