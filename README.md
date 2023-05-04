@@ -1,5 +1,5 @@
 # Airline Sentiment
-### First Place Overall Award and First Place Bank of America Challenge Award in 2021 RamHacks hackathon
+### **First Place Overall Award and First Place Bank of America Challenge Award in 2021 RamHacks hackathon**
 
 Created by: Tara Ram Mohan, Meredith Seaberg, Chris Sampson, and Greg Johnson
 
